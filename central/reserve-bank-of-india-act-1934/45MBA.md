@@ -1,0 +1,11 @@
+# The Reserve Bank of India Act, 1934, section 45MBA
+  1[45MBA. Resolution of non-banking financial company.--(1) Without prejudice to any other provision of this Act or any other law for the time being in force, the Bank may, if it is satisfied, upon an inspection of the Books of a non-banking financial company that it is in the public interest or in the interest of financial stability so to do for enabling the continuance of the activities critical to the functioning of the financial system, frame schemes which may provide for any one or more of the following, namely: --
+(a) amalgamation with any other non-banking institution;
+(b) reconstruction of the non-banking financial company;
+(c) splitting the non-banking financial company into different units or institutions and vesting viable and non-viable businesses in separate units or institutions to preserve the continuity of the activities of that non-banking financial company that are critical to the functioning of the financial system and for such purpose establish institutions called "Bridge Institutions".
+Explanation.-- For the purposes of this sub-section, "Bridge Institutions" mean temporary institutional arrangement made under the scheme referred to in this sub-section, to preserve the continuity of the activities of a non-banking financial company that are critical to the functioning of the financial system.
+(2) Without prejudice to the generality of the foregoing provisions, the scheme referred to in sub-section (1) may provide for--
+(a) reduction of the pay and allowances of the chief executive officer, managing director, chairman or any officer in the senior management of the non-banking financial company;
+(b) cancellation of all or some of the shares of the non-banking financial company held by the chief executive officer, managing director, chairman or any officer in the senior management of the non-banking financial company or their relatives;
+(c) sale of any of the assets of the non-banking financial company.
+(3) The chief executive officer, managing director, chairman or any officer in the senior management of the non-banking financial company whose pay and allowances are reduced or the shareholders whose shares are cancelled under the scheme shall not be entitled to any compensation.]

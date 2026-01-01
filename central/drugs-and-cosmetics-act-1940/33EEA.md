@@ -1,0 +1,7 @@
+# The Drugs and Cosmetics Act, 1940, section 33EEA
+  1[33EEA. Spurious drugs.--For the purposes of this Chapter, an Ayurvedic, Siddha or Unani drug shall be deemed to be spurious--
+(a) if it is sold, or offered or exhibited for sale, under a name which belongs to another drug; or
+(b) if it is an imitation of, or is substitute for, another drug or resembles another drug in a manner likely to deceive, or bears upon it or upon its label or container the name of another drug, unless it is plainly and conspicuously marked so as to reveal its true chara cter and its lack of identity with such other drug; or
+(c) if the label or container bears the name of an individual or company purporting to be the manufacturer of the drug, which individual or company is fictitious or does not exist; or
+(d) if it has been substituted wholly or in part by any other drug or substance; or
+(e) if it purports to be the product of a manufacturer of whom it is not truly a product.]

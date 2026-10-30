@@ -1,0 +1,32 @@
+{
+  "name": "india-law",
+  "coverage": "Central Acts of Parliament (India) plus the Constitution of India",
+  "history": {
+    "constitution": "replayed",
+    "central": "current-only",
+    "catalogue": "current-only"
+  },
+  "sources": [
+    {
+      "name": "India Code",
+      "url": "https://indiacode.nic.in",
+      "terms": "Government of India publication; free public access"
+    },
+    {
+      "name": "Central Gazette (sansadsaar-gazettes)",
+      "url": "https://archive.org/details/gazetteofindia",
+      "terms": "Government publication; mirror CC0 arrangement"
+    },
+    {
+      "name": "vijaya22/constitution-history",
+      "url": "https://github.com/vijaya22/constitution-history",
+      "terms": "Text by Government of India; arrangement CC0 1.0"
+    },
+    {
+      "name": "NakliTechie/parliamentwatch-data",
+      "url": "https://github.com/NakliTechie/parliamentwatch-data",
+      "terms": "Parliament of India public records"
+    }
+  ],
+  "last_build": "2026-10-31"
+}

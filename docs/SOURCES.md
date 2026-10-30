@@ -53,3 +53,9 @@ Survey of sources used for the india-law corpus. Raw downloads live under `/Volu
 - India Code text is born-digital HTML; converted to Markdown per section.
 - Gazette text is OCR'd (English + Hindi) from scanned PDFs.
 - vijaya22 text is rebuilt from Legislative Department footnotes; `Verified: false` in its commits.
+
+## States (Stage 6 survey)
+
+- The harvested India Code dataset (`raw/india-code`) is central-only: all 848 Acts and 35,444 sections have `state_name = CENTRAL`. No state Acts were harvested.
+- India Code does host state collections (per-state DSpace endpoints), but coverage and digitisation vary by State; harvesting them requires per-state queries and was not done in this run.
+- State Gazettes and State Codes are the other routes; not surveyed here. Recorded as a gap for follow-up.

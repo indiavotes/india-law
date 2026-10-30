@@ -41,4 +41,4 @@ Built for [Lexaeva](https://lexaeva.naklitechie.com), which shows how law change
 
 ## Licence
 
-The text of Indian statutes is not subject to copyright (Copyright Act 1957, s. 52(1)(q)). The arrangement of this history is released under CC0.
+Reproducing or publishing the text of an Indian Act is not an infringement of copyright (Copyright Act 1957, s. 52(1)(q)). The arrangement of this history is released under CC0.

@@ -1,6 +1,6 @@
 # Sources
 
-Survey of sources used for the india-law corpus. Raw downloads live under `/Volumes/Models/india-law/raw/` (outside the repo). Counts below come from the cloned snapshots as of 2026-10-30.
+Survey of sources used for the india-law corpus. Raw downloads are kept outside the repository. Counts below come from the cloned snapshots as of 2026-10-30.
 
 ## Central Gazette (sansadsaar-gazettes)
 

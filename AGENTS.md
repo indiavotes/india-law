@@ -11,6 +11,8 @@ Rules for any agent working in this repository.
   clause per line, indented by level; last line the section's history note where the source gives one.
 - One commit per law taking effect, dated (author and committer date, 12:00:00+05:30) the day it came into force.
   The commit's author name is the law, for example `The Constitution (Forty-second Amendment) Act, 1976`.
+  Git rejects dates before 1970, so a law that took effect earlier gets the git date `1970-01-01T12:00:00+05:30`;
+  its real date lives in the `In-force:` trailer, which readers use first. Commit order stays chronological.
 - Trailers on every commit:
   - `Law:` the Act's short title, number and year (`Act No. 52 of 1976`).
   - `In-force:` YYYY-MM-DD.

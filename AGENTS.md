@@ -6,19 +6,25 @@ Rules for any agent working in this repository.
 
 - One folder per body of law: `constitution/`, `central/<act-slug>/`, later `states/<state>/<act-slug>/`.
   `<act-slug>` is the short title in lower case with hyphens and the year, for example `indian-contract-act-1872`.
-- One Markdown file per section (`central/<act-slug>/<section>.md`; articles for the Constitution:
-  `constitution/article-21.md`). First line `# <Act short title>, section <n>`; then the text, one paragraph or
-  clause per line, indented by level; last line the section's history note where the source gives one.
+- One Markdown file per section: `central/<act-slug>/<section>.md`, first line `# <Act short title>, section <n>`,
+  then the text, one paragraph or clause per line, indented by level; last line the section's history note where
+  the source gives one. The Constitution keeps its Parts as folders, `constitution/part-iii/article-21.md`, with a
+  YAML header (article, title, part, part_title) above the text.
 - One commit per law taking effect, dated (author and committer date, 12:00:00+05:30) the day it came into force.
   The commit's author name is the law, for example `The Constitution (Forty-second Amendment) Act, 1976`.
   Git rejects dates before 1970, so a law that took effect earlier gets the git date `1970-01-01T12:00:00+05:30`;
-  its real date lives in the `In-force:` trailer, which readers use first. Commit order stays chronological.
+  its real date lives in the `In-force:` trailer, which readers use first. Commits follow the order in which the
+  laws were made, so a later commit can carry an earlier `In-force:` date when a law took effect retrospectively.
+- A snapshot commit (current text only) is dated, and has `In-force:`, the day the source last updated that text.
 - Trailers on every commit:
   - `Law:` the Act's short title, number and year (`Act No. 52 of 1976`).
   - `In-force:` YYYY-MM-DD.
   - `Source:` the URL or archive identifier the text came from.
   - `Date-basis:` how the date was found (`commencement notification`, `date of assent`, `stated in the Act`).
-  - `Kind:` `enacted`, `amendment`, `replayed`, `snapshot` or `correction`.
+  - `Enacted:` and `Commenced:` on snapshot commits: the Act's date of assent and commencement (a date, or
+    `by notification`).
+  - `Kind:` `enacted`, `amendment`, `replayed`, `snapshot`, `judgment` (a court decision that changed the text) or
+    `correction`.
 - Commit body: one line per section changed, `- section 5 substituted` / `inserted` / `omitted` / `amended`.
 - `corpus.json` at the root: name, coverage, `history` (`replayed`, `in-force` or `current-only` per folder),
   sources and their terms, and the date of the last build.

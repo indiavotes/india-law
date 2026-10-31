@@ -41,4 +41,10 @@ Built for [Lexaeva](https://lexaeva.naklitechie.com), which shows how law change
 
 ## Licence
 
-Reproducing or publishing the text of an Indian Act is not an infringement of copyright (Copyright Act 1957, s. 52(1)(q)). The arrangement of this history is released under CC0.
+Reproducing or publishing the text of an Indian Act is not an infringement of copyright (Copyright Act 1957, s. 52(1)(q)), so the Acts themselves are free to use from their official sources.
+
+This corpus, meaning the history built from those texts (the versions and their dates, the split into one file per section, the commit messages, the catalogue and the checks), is licensed under [CC BY-NC 4.0](LICENSE): you may share and adapt it for non-commercial purposes with credit to NakliTechie.
+
+Commercial use, including building this corpus into a product or service, needs a paid licence. Contact NakliTechie through [naklitechie.com](https://naklitechie.com).
+
+The Constitution's history draws on [vijaya22/constitution-history](https://github.com/vijaya22/constitution-history) (CC0); the current texts of central Acts come from [India Code](https://www.indiacode.nic.in).

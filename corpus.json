@@ -28,5 +28,10 @@
       "terms": "Parliament of India public records"
     }
   ],
-  "last_build": "2026-10-31"
+  "last_build": "2026-10-31",
+  "license": {
+    "corpus": "CC-BY-NC-4.0",
+    "commercial": "paid licence from NakliTechie (https://naklitechie.com)",
+    "texts": "Indian Acts: reproduction is not an infringement under Copyright Act 1957, s. 52(1)(q)"
+  }
 }
